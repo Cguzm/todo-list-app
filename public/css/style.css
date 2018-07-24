@@ -1,0 +1,9 @@
+body {
+  padding-top: 80px;
+}
+
+
+/* Hide item edit forms on page load */
+.edit-item-form {
+	display: none;
+}
